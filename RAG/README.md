@@ -1,4 +1,4 @@
-#Retrieval Augmented Generation (RAG)
+Retrieval Augmented Generation (RAG)
 
 Retrieval Augmented Generation (RAG) improves large language model (LLM) responses by retrieving relevant data from knowledge bases—often private, recent, or domain-specific—and using it to generate more accurate, grounded answers.
 
